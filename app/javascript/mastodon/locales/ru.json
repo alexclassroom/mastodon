@@ -36,7 +36,7 @@
   "account.followers.empty": "На этого пользователя пока никто не подписан.",
   "account.followers_counter": "{count, plural, one {{counter} подписчик} few {{counter} подписчика} other {{counter} подписчиков}}",
   "account.following": "Подписки",
-  "account.following_counter": "{count, plural, one {{counter} последующий} other {{counter} последующие}}",
+  "account.following_counter": "{count, plural, one {# подписка} many {# подписок} other {# подписки}}",
   "account.follows.empty": "Этот пользователь пока ни на кого не подписался.",
   "account.go_to_profile": "Перейти к профилю",
   "account.hide_reblogs": "Скрыть продвижения от @{name}",

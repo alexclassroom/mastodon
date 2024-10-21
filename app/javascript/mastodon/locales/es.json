@@ -567,7 +567,7 @@
   "notifications.column_settings.filter_bar.category": "Barra de filtrado rápido",
   "notifications.column_settings.follow": "Nuevos seguidores:",
   "notifications.column_settings.follow_request": "Nuevas solicitudes de seguimiento:",
-  "notifications.column_settings.group": "Grupo",
+  "notifications.column_settings.group": "Agrupar",
   "notifications.column_settings.mention": "Menciones:",
   "notifications.column_settings.poll": "Resultados de la votación:",
   "notifications.column_settings.push": "Notificaciones push",
